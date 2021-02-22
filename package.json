@@ -1,0 +1,10 @@
+{
+  "name": "git-history-component-counts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tom Coleman <tom@thesnail.org>",
+  "license": "MIT",
+  "dependencies": {
+    "json2csv": "^5.0.6"
+  }
+}
